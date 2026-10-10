@@ -1,9 +1,0 @@
-.vscode
-**/build
-**/install
-**/logs
-*.o*
-*.a*
-*.so*
-*.bin
-*.dll*
