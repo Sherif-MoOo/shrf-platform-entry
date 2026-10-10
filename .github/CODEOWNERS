@@ -1,0 +1,11 @@
+# SHRF Platform — Code Ownership
+#
+# Repository owner:
+# @Sherif-MoOo
+#
+# All repository changes require code-owner review.
+
+* @Sherif-MoOo
+
+# Protect repository governance files.
+/.github/ @Sherif-MoOo
